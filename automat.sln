@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automat", "automat\automat.csproj", "{FA16B796-4B01-4BF7-8D19-0A8820902627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA16B796-4B01-4BF7-8D19-0A8820902627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA16B796-4B01-4BF7-8D19-0A8820902627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA16B796-4B01-4BF7-8D19-0A8820902627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA16B796-4B01-4BF7-8D19-0A8820902627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB465333-125C-44A2-8C3D-DD32202BC909}
+	EndGlobalSection
+EndGlobal
